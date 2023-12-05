@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/top-gear-rent/static/css/main.36d87051.css",
+    "main.js": "/top-gear-rent/static/js/main.a5b4cd95.js",
+    "static/media/top-car.jpg": "/top-gear-rent/static/media/top-car.20abeace2def804c6262.jpg",
+    "static/media/asset2.png": "/top-gear-rent/static/media/asset2.c0ac25b7af23f5e44359.png",
+    "static/media/sale1.jpg": "/top-gear-rent/static/media/sale1.e4508a05191214a6fa04.jpg",
+    "static/media/asset1.png": "/top-gear-rent/static/media/asset1.c98e79c18dc525548e8f.png",
+    "static/media/asset3.png": "/top-gear-rent/static/media/asset3.d8c2d59314e4adebbe95.png",
+    "static/media/sale3.jpg": "/top-gear-rent/static/media/sale3.6ef5472420b1e25527ea.jpg",
+    "static/media/sale2.jpg": "/top-gear-rent/static/media/sale2.aa4fbf1853add8abbe01.jpg",
+    "static/media/car4.jpg": "/top-gear-rent/static/media/car4.f7a2e8da7313dac1c18b.jpg",
+    "static/media/car3.jpg": "/top-gear-rent/static/media/car3.b10adeb633b3d9489dd8.jpg",
+    "static/media/car1.jpg": "/top-gear-rent/static/media/car1.2b4f010277ce4a22fd43.jpg",
+    "static/media/car5.jpg": "/top-gear-rent/static/media/car5.038e34d3b1f995b1e4f9.jpg",
+    "static/media/driver3.jpg": "/top-gear-rent/static/media/driver3.26ffa1e45da706afa825.jpg",
+    "static/media/driver1.jpg": "/top-gear-rent/static/media/driver1.b7cb3f1a0e59e1ef8031.jpg",
+    "static/media/car6.jpg": "/top-gear-rent/static/media/car6.d954ee7898fa878f0a6f.jpg",
+    "static/media/car2.jpg": "/top-gear-rent/static/media/car2.c19e007baeeaaa3048c9.jpg",
+    "static/media/driver2.jpg": "/top-gear-rent/static/media/driver2.ee7597c03a9fc60c0aa6.jpg",
+    "index.html": "/top-gear-rent/index.html",
+    "main.36d87051.css.map": "/top-gear-rent/static/css/main.36d87051.css.map",
+    "main.a5b4cd95.js.map": "/top-gear-rent/static/js/main.a5b4cd95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d87051.css",
+    "static/js/main.a5b4cd95.js"
+  ]
+}
